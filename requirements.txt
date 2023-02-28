@@ -1,0 +1,6 @@
+Python modules needed:
+moviepy
+azure.cognitiveservices.speech
+os
+sys
+random
