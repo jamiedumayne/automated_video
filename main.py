@@ -8,3 +8,6 @@ from transformers import pipeline
 
 from moviepy.editor import *
 from moviepy.video.tools.subtitles import SubtitlesClip
+
+#list of animals
+#https://gist.github.com/atduskgreg/3cf8ef48cb0d29cf151bedad81553a54
