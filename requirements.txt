@@ -4,3 +4,7 @@ azure.cognitiveservices.speech
 os
 sys
 random
+
+Authorisation needed:
+-azure portal
+-tiktok account
