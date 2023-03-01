@@ -187,5 +187,57 @@ Prawn
 Praying mantis
 Puffin
 Python
-
+Rabbit
+Raccoon
+Rattlesnake
+Red panda
+Reindeer
+Rhinoceros
+Roadrunner
+Rooster
+Salamader
+Salmon
+Saber-toothed tiger
+Scorpion
+Sea lion
+Sea slug
+Sheep
+Shrimp
+Silkworm
+Skunk
+Snail
+Slug
+Snow leopard
+Sparrow
+Spider
+Spider monkey
+Squirrel
+Starfish
+Stingray
+Stork
+Swan
+Swordfish
+Tapir
+Tarantula
+Termite
+Tiger
+Tiger shark
+Toad
+Tortoise
+Toucan
+Tree frog
+Trout
+Turkey
+Tuna
+Turtle
+Cole
+Wallaby
+Walrus
+Weasel
+Whale
+Wildcat
+Wolverine
+Woodpecker
+Zebra
+Yak
 }
