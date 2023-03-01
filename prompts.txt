@@ -32,4 +32,160 @@ Ape\
 Aphid\
 Fox\
 Wolf\
+Penguin
+Armadillo
+Crab
+Baboon
+Donkey
+Badger
+Eagle
+Bandicoot
+Barnacle
+Barracuda
+Basilisk
+Bat
+Bear
+Beaver
+Bedbug
+Bee
+Beetle
+Bird
+Bison
+Black panther
+Black widow spider
+Blue bird
+Blue jay
+Blue whale
+Boa constrictor
+Boar
+Bobcat
+Jellyfish
+Butterfly
+Buzzard
+Camel
+Cpybara
+Cardinal
+Carp
+Cat
+Caterpillar
+Catfish
+Chameleon
+Centipede
+Cheetah
+Chicken
+Chimpanzee
+Chipmunk
+Chimpanzee
+Clownfish
+Cobra
+Cockroach
+Cod
+Condor
+Coral
+Cougar
+Coyote
+Crane
+Cricket
+Crocodile
+Crow
+Cuckoo
+Der
+Dingo
+Dolphin
+Donkey
+Dove
+Dragonfly
+Dung beetle
+Earthworm
+Eel
+Seal
+Elk
+Emu
+Falcon
+Ferret
+Finch
+Firefly
+Flamingo
+Flyingfish
+Frog
+Fruit bat
+Gazelle
+Gecko
+Gerbil
+Giant panda
+Giant squid
+Giraffe
+Goat
+Goldfish
+Goose
+Gopher
+Gorilla
+Grasshopper
+Great white shark
+Grizzly bear
+Sloth
+Seagull
+Hammerhead shark
+Hedgehog
+Hawk
+Hermit crab
+Heron
+Hippopotamus
+Hyena
+Iguana
+Jackal
+Kangaroo
+Kiwi
+Koala
+Koi
+Komodo dragon
+Ladybug
+Snail
+Leech
+Leopard
+Limpet
+Leion
+Lizard
+Llama
+Lobster
+Lynx
+Magpie
+Manatee
+Manta ray
+Meerkat
+Mink
+Mongoose
+Monkey
+Moose
+Moth
+Mountain goat
+Mouse
+Narwhal
+Newt
+Ocelot
+Octopus
+Orangutan
+Orca
+Ostrich
+Otter
+Owl
+Ox
+Parakeet
+Parrot
+Peacock
+Pelican
+Pheasant
+Pig
+Piranha
+Platypus
+Polar bear
+Pony
+Porcupine
+Porpoise
+Possum
+Prawn
+Praying mantis
+Puffin
+Python
+
 }
