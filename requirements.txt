@@ -6,5 +6,5 @@ sys
 random
 
 Authorisation needed:
--azure portal
+-azure portal (https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/get-started-text-to-speech?tabs=windows%2Cterminal&pivots=programming-language-python)
 -tiktok account
