@@ -1,5 +1,8 @@
+#generate voiceover from text
+#set save location and filename
+
 def text_to_voice(text):
-    save_loc = "/home/jamie/Documents/Test/Tiktok_bot/audio/"
+    save_loc = file_path+"/audio/"
     speech_config = speechsdk.SpeechConfig(subscription=os.environ.get('SPEECH_KEY'), region=os.environ.get('SPEECH_REGION'))
 
     #setup adio settings and set filepath to save
@@ -13,5 +16,5 @@ def text_to_voice(text):
     # Get text and synthesize to the default speaker.
     speech_synthesis_result = speech_synthesizer.speak_text_async(text).get()
 
-audio_filename = "test3.wav"
-text_to_voice('Penguins may be flightless, but they can catch a lot of fish')
+audio_filename = file + ".wav"
+text_to_voice(file_text)

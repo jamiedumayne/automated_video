@@ -1,8 +1,9 @@
-def read_text(text_file):
-    os.chdir("/home/jamie/Documents/Test/Tiktok_bot/scripts/")
-    f = open(text_file, 'r')
+#import text script file
+def read_file(file):
+    f = open(file, 'r')
     content = f.read()
     f.close()
+    return content
 
-file = 'test_penguin.txt'
-read_text(file)
+file_text = read_file(file + '.txt')
+print(file_text)
